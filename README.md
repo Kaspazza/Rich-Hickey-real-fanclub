@@ -6,6 +6,8 @@
     A collection about Rich Hickey's works on the internet.
 </p>
 
+The original repo [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) is not kept up to date, so I created this repo, to keep it updated
+
 ## Work
 
 * [Clojure](https://github.com/clojure)
