@@ -34,6 +34,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 
 ## Talks
 
+* [Design in Practice (Apr 2023)](https://www.youtube.com/watch?v=fTtnx1AAJ-c)
 * [A History of Clojure (Jun 2021)](https://www.pldi21.org/prerecorded_hopl.11.html)
 * [Maybe Not (Nov 2018)](https://www.youtube.com/watch?v=YR5WdGrpoug)
 * [Datomic Ions (Sep 2018)](https://www.youtube.com/watch?v=thpzXjmYyGk)
