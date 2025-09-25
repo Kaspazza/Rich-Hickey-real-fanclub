@@ -35,6 +35,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 
 ## Talks
 
+* [Welcome to Clojure/conj 2024 (Oct 2024)](https://www.youtube.com/watch?v=Earx_BjvgO0)
 * [Design in Practice (Apr 2023)](https://www.youtube.com/watch?v=fTtnx1AAJ-c)
 * [A History of Clojure (Jun 2021)](https://www.pldi21.org/prerecorded_hopl.11.html)
 * [Maybe Not (Nov 2018)](https://www.youtube.com/watch?v=YR5WdGrpoug)
@@ -82,7 +83,8 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 * [Clojure Concurrency, version with slides (Mar 2008)](https://www.youtube.com/watch?v=nDAfZK8m5_8)
 * [Clojure Concurrency (Mar 2008)](https://youtube.com/watch?v=dGVqrGmwOAw)
 
-There's also slides from a talk named ["Clojure: What just happened?"](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/31/slides/rich.pdf). Transcripts of some of his talks can be found on [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/README.md).
+There's also slides from a talk named ["Clojure: What just happened?"](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/31/slides/rich.pdf). 
+Transcripts of some of his talks can be found on [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/README.md).
 
 ## Interviews
 
