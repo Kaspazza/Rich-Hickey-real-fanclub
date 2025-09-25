@@ -86,6 +86,7 @@ There's also slides from a talk named ["Clojure: What just happened?"](http://ww
 
 ## Interviews
 
+* [Music, Brackets, and Database? Rich Hickey and why create Clojure? (Mar 2023)](https://www.youtube.com/watch?v=W7mGtnQv7vA)
 * [Problem Solving and Clojure 1.9 with Rich Hickey (May 2018)](http://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey)
 * [clojure.spec with Rich Hickey (Jun 2016)](http://blog.cognitect.com/cognicast/103)
 * [Rich Hickey and core.async (Jul 2013)](http://blog.cognitect.com/cognicast/035-rich-hickey-and-coreasync)
