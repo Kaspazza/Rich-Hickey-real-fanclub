@@ -6,7 +6,7 @@
     A collection about Rich Hickey's works on the internet.
 </p>
 
-The original repo [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) is not kept up to date, so I created this repo, to keep it updated
+The og repo [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) was not kept up to date for many years, so I created this repo, to keep it updated
 
 ## Work
 
@@ -29,6 +29,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 * [Disqus](https://disqus.com/by/richhickey) \*
 * [Amazon](https://web.archive.org/web/20171003001051/https://www.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCTH)
 * [SourceForge](http://sourceforge.net/u/rhickey/profile)
+* [Wikipedia](https://en.wikipedia.org/wiki/Rich_Hickey)
 
 \* Unfortunately, some comments aren't being shown on his user page ([such as this one](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/#comment-287120251)).
 
