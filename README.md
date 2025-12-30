@@ -35,6 +35,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 
 ## Talks
 
+* [Opening remarks from Clojure/Conj 2025 (Nov 2025)](https://www.youtube.com/watch?v=MLDwbhuNvZo)
 * [Welcome to Clojure/conj 2024 (Oct 2024)](https://www.youtube.com/watch?v=Earx_BjvgO0)
 * [Design in Practice (Apr 2023)](https://www.youtube.com/watch?v=fTtnx1AAJ-c)
 * [A History of Clojure (Jun 2021)](https://www.pldi21.org/prerecorded_hopl.11.html)
