@@ -116,7 +116,12 @@ Transcripts of some of his talks can be found on [matthiasn/talk-transcripts](ht
 
 ## Writings
 
-You can find a few on [Clojure blog](http://clojure.com/blog), [Cognitect blog](http://blog.cognitect.com/?author=53b41822e4b03d3e9732635e), and [InfoQ](http://infoq.com/author/Rich-Hickey#Articles). He also wrote about how [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) ([comments](https://news.ycombinator.com/item?id=18538123)).
+* [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) ([comments](https://news.ycombinator.com/item?id=18538123)) 
+* [Clojure blog](http://clojure.com/blog)
+* [Cognitect blog](http://blog.cognitect.com/?author=53b41822e4b03d3e9732635e) 
+* [InfoQ](http://infoq.com/author/Rich-Hickey#Articles)
+
+## Other writing
 
 There's an old paper (1994) on C++: [Callbacks in C++ using template functors](http://tutok.sk/fastgl/callback.html).
 He made some comments on it in [an interview](https://web.archive.org/web/20110614145543/http://codequarterly.com/2011/rich-hickey) years later:
