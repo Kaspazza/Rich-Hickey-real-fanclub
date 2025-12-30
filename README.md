@@ -116,6 +116,7 @@ Transcripts of some of his talks can be found on [matthiasn/talk-transcripts](ht
 
 ## Writings
 
+* [Thanks AI!](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 * [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) ([comments](https://news.ycombinator.com/item?id=18538123)) 
 * [Clojure blog](http://clojure.com/blog)
 * [Cognitect blog](http://blog.cognitect.com/?author=53b41822e4b03d3e9732635e) 
