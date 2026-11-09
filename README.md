@@ -117,6 +117,7 @@ Transcripts of some of his talks can be found on [matthiasn/talk-transcripts](ht
 
 ## Writings
 
+* ['AI' is Not a Tool (Oct 2026)](https://gist.github.com/richhickey/a2e19ef3f6f69ca0cca617a8a0da2268) ([LinkedIn article](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e))
 * [Thanks AI!](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 * [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) ([comments](https://news.ycombinator.com/item?id=18538123)) 
 * [Clojure blog](http://clojure.com/blog)
